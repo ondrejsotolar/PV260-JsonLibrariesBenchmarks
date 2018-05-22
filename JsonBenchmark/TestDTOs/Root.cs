@@ -1,4 +1,6 @@
-﻿namespace JsonBenchmark.TestDTOs
+﻿using System.Text;
+
+namespace JsonBenchmark.TestDTOs
 {
     public class Root
     {
